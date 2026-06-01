@@ -1,0 +1,4 @@
+[*.kt]
+ktlint_standard_function-naming = disabled
+ktlint_standard_no-wildcard-imports = disabled
+ktlint_standard_property-naming = disabled
