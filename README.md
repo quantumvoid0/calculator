@@ -28,8 +28,8 @@ Requirements:
 - Android SDK (API 36)
 
 ```bash
-git clone https://github.com/quantumvoid0/notepad
-cd notepad
+git clone https://github.com/quantumvoid0/calculator
+cd calculator
 gradle wrapper --gradle-version 8.14.2
 ./gradlew assembleDebug
 adb install app/build/outputs/apk/debug/app-debug.apk
