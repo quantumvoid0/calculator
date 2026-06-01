@@ -19,7 +19,7 @@ A clean, clean calculator app for Android built with Kotlin and Jetpack Compose.
 > [!NOTE]
 > Android versions from 8 to 16 are currently supported
 
-- goto [latest release](https://github.com/quantumvoid0/calculator/releases/latest) and download the [notepad.apk](https://github.com/quantumvoid0/notepad/releases/download/v1.0/calculator.apk), after doing so open `calculator.apk` to install it.
+- goto [latest release](https://github.com/quantumvoid0/calculator/releases/latest) and download the [calculator.apk](https://github.com/quantumvoid0/calculator/releases/download/v1.0/calculator.apk), after doing so open `calculator.apk` to install it.
 
 ## Building yourself for development
 
