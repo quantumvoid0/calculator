@@ -1,6 +1,6 @@
 # Calculator
 
-A clean, clean calculator app for Android built with Kotlin and Jetpack Compose.
+A Simple, clean calculator app for Android built with Kotlin and Jetpack Compose.
 
 <img src="./assets/img.png" style="width:700px">
 
